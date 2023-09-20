@@ -25,9 +25,9 @@ include_once __DIR__ . '/db/db.php';
     <link rel="stylesheet" href="./css/style.css">
 </head>
 
-<body>
+<body style="background-color: lavender;">
 
-    <nav class="navbar navbar-expand-lg bg-body-tertiary bg-danger">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary" style="background-color: maroon;">
         <div class="container">
             <a class="navbar-brand fs-1 text-light" href="#">Movie OOP</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
